@@ -40,11 +40,11 @@ in all areas of life where choices have consequences, especially where public di
 - philosophy
 - law (it's not fair if you don't know what it means, or if there are contradictions in it)
 - programming (programs crash iff they don't make sense)
-- public debate and politics (you can't be right if your argument is invalid)
+- public debate and politics (you can't be right if you don't make sense)
 - life choices (if you want to live long and free, lead a healthy lifestyle and don't commit crimes)
 - everyday human interaction
 
-but probably not for art or comedy In fact, everything that doesn't use logic, in a sense, is art.
+but probably not for art or comedy. In fact, everything that isn't expressed in a consistent formal language, in a sense, is art.
 
 
 ### To detractors
@@ -65,25 +65,25 @@ If we logic everything, we'll become mindless robot computers! We will lose what
 
 No we won't. We'll fulfill it. We're the only creature capable of abstract reasoning. We should put our biased shortcut-based animagical thinking behind us and build a just, logical, free society. We will have more time to enjoy life and art, with less to worry about.
 
-To err is animal. To reason is human. To compute fast is computer. To adverb is verb.
+To err is animal. To reason is human. To compute fast is machine. To adverb is verb.
 
 
-# On the meaning of shit
+## On the meaning of shit
 
 What does it mean to exist? Do you have free will? What do you know and why?
 
-Milennia of philosophy and we're still arguing about this shit. There must be a better way. Maybe not so definitive and all-encompassing, but at least meaningful (logical).
+Milennia of philosophy and we're still arguing about this shit. Let's try to make sense of it though. Maybe not so all-encompassing, but at least logical.
 
 
 ### The Human Decision Problem
 
-Turns out there is a better way, a behavioral approach that captures the complexity of human thought. Let us not look at the words themselves, but how people use them in sentences. Let's ask Yes/No questions and see how people might answer them.
+Turns out there is a better way, a behavioral approach that captures the complexity of human thought. Let us not look at the words themselves, but how people use them in sentences. Let's ask yes/no questions and see how people might answer them.
 
 To find meaning, truth, or knowledge, it is often fruitless to ask oneself. Is it true? Why do I want that? How should I know? We have to consider the externally observable facts instead. We ask someone else. Or they ask us. It is in communication that these concepts are elucidated, because it is in communication that we _use_ them.
 
-In a sense, we're never really asking "Is it true?" or "What is the meaning of this RNA?". We're asking, "What would you say if someone asked you if it is true?" or "What protein would a rhibosome build if I gave it this messenger RNA?". Words don't have meaning by themselves, only in combination with other words, in the act of communication (computation).
+In a sense, we're never really asking "Is it true?" or "What is the meaning of this RNA?". We're asking, "What would you say if someone asked you if it is true?" or "What protein would a rhibosome build if I gave it this messenger RNA?". Words don't have meaning by themselves, only in sentences, in the act of communication (computation).
 
-There is no way I can find out wether you (really, freely) want something, what you know, or what you believe is true, other than just asking. If what you say makes sense (together with what I already know), I have to assume that it is so. Innocent until proven guilty. If it weren't, and I couldn't, there would hardly be any point to communication, we might as well make random noises.
+There is no way I can find out wether you (really, freely) want something, what you know, or what you believe is true, other than just asking (if there is, please enlighten me). If what you say makes sense (together with what I already know), I have to assume that it is so. Innocent until proven guilty. If it weren't, and I couldn't, there would hardly be any point to communicating, we might as well make random noises.
 
 
 #### Honest people make sense
@@ -91,20 +91,20 @@ There is no way I can find out wether you (really, freely) want something, what 
 Most of the time people don't make sense. And they lie. A lie is just a special case of nonsense, which would make sense except that in actuality its negation is true, which causes a contradiction.
 
 Reasons that a person might lie (or equivalently, talk nonsense):
-- it is tedious to express ideas in formal language in most situations
 - memory is fallible
 - not understanding the question
 - not realizing they are being inconsistent
+- it is sometimes tedious to express ideas formally
 - being in a degraded mental state (distress, sleepwalking, delusion)
 - knowingly interfering with the listener's beliefs,
-    - usally because the listener knowing the truth would put the liar at some kind of disatvantage
+    - usally because the listener knowing the truth would put the liar at a disatvantage
 
 Formal languages make lying harder, incentivizing actions that can be acknowledged, leading to a more honest society.
 
 For now we have to assume an honest conversation - participants don't lie and want everyone to agree on what shit they say means - so truthful logical discourse is the only real option.
 
 
-## On what there is
+## What there is
 
 In a logical language, existence is not a predicate or a verb. It is a quantifier, a different kind of language element.
 
@@ -116,29 +116,29 @@ And it means exactly this:
 `Not all shits are not blue`.
 Nothing more, nothing less.
 
-So there's no suh thing as "to exist", only for some or all elements of a set to "have a certain property". The confusion stems from the limited way we treat human languages, treating "is" like a verb when it is a different type of expression. It behaves much like a predicate, but _requires_ an object.
+So there's no such thing as "to exist", only for some or all elements of a collection to "have a certain property". The confusion stems from the limited way we treat human languages, treating "is" like a verb when it is a different type of expression. Grammatically, it behaves much like a verb, but _requires_ a logical predicate or relation (like greenness, or being the son of someone).
 
 More on this: first order logic defines the pair of quantifiers: the existential quantifier "There exists a _ such that _" and the universal quantifier "All _ are such that _". Only one is required, the other can be defined in terms of it, as above.
 
-
-### On what has to be, what might be, and what actually is
+### What there _actually_ is
 
 Modal logic introduces the pair of operators "possibly" and "necessarily". If something is necessarily true, it can not possibly not be true. Again, only one is required to be basic. One may introduce "actually" to distinguish possible truths that are deemed true in the actual world (but don't necessarily follow from logical axioms or prior knowledge).
 
 More on this: Modal Logic
 
 
-### On what we imagine there is
+### What there _really_ is
 
-All right then, but what is the difference between real persons and characters in a story? This one is solved by introducing two modes of predication, two ways of interpreting "is".
+All right then, but what is the difference between real persons and characters in a story? This one is solved by introducing two modes of predication, two ways of interpreting "is", in essence, two ways of combining things with properties (or relations).
 
 Sherlock Holmes encodes being a detective. Allan Pinkerton exemplifies being a detective.
 
+Add to this a distinguished property of "being concrete", intuitively meaning "having a position in spacetime", exemplified by "real" things, and you're pretty much set.
 
 More on this: The Theory of Abstract Objects
 
 
-## On Truth
+## Tha Truf
 
 What does it mean for something to be true? Is there truth in the world? How can we find or verify it?
 
@@ -148,6 +148,8 @@ As usual, we can ask.
 ### Ask
 
 About the empirical: there is no way to tell for sure wether someone is genuinely experiencing something. So we'll just have to accept it on good faith. Do you see red?
+
+Conversely, there is logical truth. Tautology. Clear rules we can agree on about when we can *say* things consistently.
 
 
 ### What does it mean?
@@ -165,23 +167,25 @@ So if we assume some basic propositions about our senses as true, we can use log
 To say that a sentence is true is nothing more than to say that sentence.
 
 Example:
-I am full of shit
+`I am full of shit`
 vs
-It is true that I am full of shit.
+`It is true that I am full of shit.``
 
 
-Yes, there are social implications of saying "True!" beyond meaningless repetition, like showing support and driving group dynamics. But we are concerned with logic now.
+Yes, there are social implications of saying "True!" beyond meaningless repetition, like showing support. But we are concerned with logic now.
 
 
 ### Knowledge
 
-It's one of those problematic things. How do you know that you really know something? How do I know that you know? Well, I have to ask.
+How do you know that you really know something? How do I know that you know? Well, I have to ask.
 
 For a long time *Justified True Belief* was the game. Gettier pointed out some cases where "justified" is more complicated than it seems.
 
 The truth is, I can't really find out wether you know anything at all, other than by asking you. And when I do, the only thing I find out is that you *say* you know. But since there is no real way to tell, that's as good as it gets. So, as usual, let's try to find a rule for when people can consistently say they know something. We will assume this is what they mean when they say they know something, and we will adopt is as a rule to say when we know stuff.
 
 The problem with knowing anything about the real world is that we have to take sense experience at face value.
+
+However, everything else should be logically provable.
 
 
 ## Free Will
@@ -240,7 +244,7 @@ But it *feels* like I'm making this decision. Like I have the power. Me. I know 
 
 Well, it really feels like you don't have a blind spot near the center of your field of vision. But you [totally do](https://en.wikipedia.org/wiki/Blind_spot_(vision)).
 
-As we know, the universe is part deterministic, part random. There is no evidence of spirits, selves, or other spooky stuff independent of our bodies, influencing what actually happens. And our bodies are made of physics stuff. So what we end up doing is caused by previous interactions (DNA, brain structure, memories) and luck.
+As we know, the universe is part deterministic, part random. There is no evidence of spirits, selves, or other spooky stuff independent of our bodies, influencing what actually happens. And our bodies are made of physics stuff. So what we end up doing is caused by previous interactions (DNA, brain structure, memories) and luck (randomness). The best we can do is to stack the odds in our favor.
 
 It appears that the illusion of consious decision comes down to thinking about choices (before) and rationalizing them (after). There is no "actual" choice, just as there is no actual chooser, separate from our physicsy (causal+lucky) bodies.
 
@@ -254,3 +258,41 @@ There is an even more general usefulness to the concept of free will. Wether we 
 If people believe it, it's also a way to change their behavior, by changing the incentives. Eg. don't fuck children, you'll go to jail. If we find out. There are no children in jail, and your asshole is in grave danger. So yeah, you should know that in case you "decide" to do it. You can't really decide either way, but just knowing makes you less likely to do it.
 
 Yeah, I know, it's creepy. I have no choice but to say that free will is a good thing. And you had no choice but to read this tripe. And if we hadn't, it would have been because of old shit or random shit.
+
+
+## Science bitches! It works!
+
+Interconnected models of the external world, webs of truth woven from the fabric of reality.
+
+Scientific truf is
+- falsifiable
+- attempted to be falsified, unsuccessfully (for a range of circumstances)
+- according to bayesian confirmation theory, confirmed by experiments that show it more probable if the experiment succeeds (a bit problematic, no quantified model exists)
+
+Well, these are crutches anyway. The point is, we try as best we can to eliminate the possibility that we're wrong. And we have developed good ways to do it. We apply them to other areas of life and cringe.
+
+
+## Two slits, one (black) hole
+
+So there's this annoying thing, we don't have one model to describe the basic workings of physics. We have two. Quantum field theory and general relativity.
+
+Note: string theory and AdS/CFT seem to point towards a physical Theory of Everything. It's still some ways off.
+
+Well, it seems like, for now, we have to live with disparate theories that only partially overlap. We can't (yet?) derive classical mechanics from quantum mechanics. It seems the problem is NP-complete [link]. But we can for example derive statistical thermodynamics from newtonian mechanics. Even so, there's new math to be discovered and new connections to be made.
+
+
+## Applied Shit
+
+There seems to be this scale where each item is the "applied" version of the preciding one:
+
+- philosophy
+- math
+- physics
+- chemistry
+- biology
+- psychology
+- socioeconomics
+
+See xkcd.
+
+We have translations between nearby fields, and it does seem to be a continuum, so we just have to close the gaps, and find translations between fields farther from each other.
