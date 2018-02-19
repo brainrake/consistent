@@ -124,6 +124,8 @@ More on this: first order logic defines the pair of quantifiers: the existential
 
 Modal logic introduces the pair of operators "possibly" and "necessarily". If something is necessarily true, it can not possibly not be true. Again, only one is required to be basic. One may introduce "actually" to distinguish possible truths that are deemed true in the actual world (but don't necessarily follow from logical axioms or prior knowledge).
 
+On this we can build the notion of possible worlds, meaning possible states of affairs: how things could have turned out, assuming some things were different than they actually are.
+
 More on this: Modal Logic
 
 
@@ -258,6 +260,19 @@ There is an even more general usefulness to the concept of free will. Wether we 
 If people believe it, it's also a way to change their behavior, by changing the incentives. Eg. don't fuck children, you'll go to jail. If we find out. There are no children in jail, and your asshole is in grave danger. So yeah, you should know that in case you "decide" to do it. You can't really decide either way, but just knowing makes you less likely to do it.
 
 Yeah, I know, it's creepy. I have no choice but to say that free will is a good thing. And you had no choice but to read this tripe. And if we hadn't, it would have been because of old shit or random shit.
+
+
+## Consciousness and Personhood
+
+It's an emergent, self-referential behavior of computational architectures. Mainly neural networks. Usually humans.
+
+"I" come into being when I start talking about it.
+
+Again, it's hard to pin it down. Let's ask though.
+
+Is a baby conscious? Is it a person? How about a fetus? How about you when you're sleeping? A person in a coma? Braindead? How about a firm? (Yes, that's a thing, corporations are people, "legal persons", in most jurisditions. Wtf.)
+
+So let's just leave it at that: stuff people say about (mainly) other people, to decide how to treat them (legally, ethically, etc). In any case, there's no magic to it
 
 
 ## Science bitches! It works!
