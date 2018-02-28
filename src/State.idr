@@ -1,6 +1,7 @@
 --
 -- Preliminaries
 --
+import Data.Vect
 
 
 -- Time is a thing.
@@ -26,7 +27,7 @@ Action = (Person, Event)
 
 
 --
--- The Law and the State
+-- The Law
 --
 
 
@@ -44,30 +45,52 @@ TheLaw : Type
 TheLaw = (List Event -> TheLaw, List Law)
 
 
--- The state is the law and the people.
-State : Type
-State = (TheLaw, List Person)
+-- The current law is the law.
+the_law : TheLaw
 
 
 --
 -- Separation of powers.
 --
 
+-- The three branches
+data GovernmentBranch
+    = Legislative
+    | Judicial
+    | Executive
 
+
+GovernmentBranches : Vect 3 GovernmentBranch
+GovernmentBranches = [Legislative, Judicial, Executive]
+
+
+-- Each government branch is granted the power to perform a function
+power : GovernmentBranch -> Type
 -- The legislative branch updates the law.
-Legislative : Type
-Legislative = TheLaw -> TheLaw
-
-
+power Legislative = TheLaw -> TheLaw
 -- The judicial branch applies the law to the world to produce obligations.
-Judicial : Type
-Judicial = TheWorld -> Obligation
-
-
+power Judicial = TheLaw -> TheWorld -> List Obligation
 -- The executive branch takes obligatory action.
-Executive : Type
-Executive = Obligation -> Action
+power Executive = Obligation -> Action
 
 
+-- A person can be said to perform a function
+data Performs f = MkPerforms Person
+
+
+-- A government is the sets of people performing the functions of the branches
 Government : Type
-Government = ( Legislative, Judicial, Executive )
+Government =
+    let
+        people_of = \x => List (Performs (Main.power x))
+    in
+        (people_of Legislative, people_of Judicial, people_of Executive)
+
+
+-- The current government
+the_government : Government
+
+
+-- The state is the law plus the people who update, decide, and act on it.
+State : Type
+State = (TheLaw, Government)
