@@ -53,6 +53,7 @@ the_law : TheLaw
 -- Separation of powers.
 --
 
+
 -- The three branches
 data GovernmentBranch
     = Legislative
@@ -91,6 +92,10 @@ Government =
 the_government : Government
 
 
--- The state is the law plus the people who update, decide, and act on it.
+-- A state is the law plus the people who update, decide, and act on it.
 State : Type
 State = (TheLaw, Government)
+
+
+-- The current state is the state
+the_state : State
