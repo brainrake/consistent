@@ -47,7 +47,7 @@ Deontic logic studies "should".
 
 ### Bunk
 
-Logic can not possibly capture the complexity of human thought, law, or everyday life. That is because it does not make sense. We try to make sense of it all the time, limited by cognitive biases, but we haven't thought it _all_ true. No one has. It is impossible for any one person. The totality of human language, thought and knowledge is a patchwork of overlapping meanings, like puzzle pieces. The more of them you put together, the less the whole thing will fit.
+Logic can not possibly capture the complexity of human thought, law, or everyday life. That is because it does not make sense. We try to make sense of it all the time, limited by cognitive biases, but we haven't thought it _all_ through. No one has. It is impossible for any one person. The totality of human language, thought and knowledge is a patchwork of overlapping meanings, like puzzle pieces. The more of them you put together, the less the whole thing will fit.
 
 We can't think it all through. But we can formalize a great deal, and compute with its entirety. As an example, Autopilots in passenger airlines have, throughout the decades, carried billions safely to their destination, increased safety, compliance and efficiency and reduced cost.
 
