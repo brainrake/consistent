@@ -34,9 +34,9 @@ To recognize the power of logic, we will look at the limits of logic.
 
 [Logic and programming are the same](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence). The short and salient version is, computer programs crash or freeze preciesely when they contain logical inconsistencies or paradoxes, ie. "don't make sense". Conversely, we can rule these out with complete certainty, as well as ensure correctness of programs, by way of logical proof.
 
-Alan Turing [proved](https://en.wikipedia.org/wiki/Halting_problem) that there is no general algorithm to decide, for all possible programs, wether the program will run to completion in finite time (halt, produce a result) or wether it will run forever (freeze).
+Alan Turing [proved](https://en.wikipedia.org/wiki/Halting_problem) that there is no general algorithm to decide, for all possible programs, wether the program will run to completion in finite time (halt, produce a result) or wether it will run forever without making any progress (freeze).
 
-Contrary to popular belief, this does not mean that any computation might run forever, we just can't tell, and there's no point in trying. Instead, we learned _how_ to prove that programs terminate, and built programming languages that rule out freezes.
+Contrary to popular belief, this does not mean that any computation might run forever, we just can't tell, and there's no point in trying. Instead, we learned _how_ to prove that programs terminate for all inputs, and built programming languages that rule out freezes. These are called "total" languages, as opposed partial languages, in which programs might get stuck for some inputs.
 
 
 ### Deontic Logic
@@ -49,7 +49,7 @@ Deontic logic studies "should".
 
 Logic can not possibly capture the complexity of human thought, law, or everyday life. That is because it does not make sense. We try to make sense of it all the time, limited by cognitive biases, but we haven't thought it _all_ through. No one has. It is impossible for any one person. The totality of human language, thought and knowledge is a patchwork of overlapping meanings, like puzzle pieces. The more of them you put together, the less the whole thing will fit.
 
-We can't think it all through. But we can formalize a great deal, and compute with its entirety. As an example, Autopilots in passenger airlines have, throughout the decades, carried billions safely to their destination, increased safety, compliance and efficiency and reduced cost.
+We can't think it all through. But we can formalize a great deal, and compute with its entirety. As an example, autopilots in passenger airlines have, throughout the decades, carried billions safely to their destination, increased safety, compliance and efficiency and reduced cost.
 
 An autopilot is a logic program. Inputs are regulations, maps, physical characteristics of the plane, sensors, GPS, weather, radar, pilot commands. The ouputs are the flight controls. Autopilots avoid no-fly zones, respect speed and altitude limits, as well as solve physics equations to find efficient flight paths (in terms of fuel and time), all in real time.
 
