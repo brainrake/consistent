@@ -47,9 +47,9 @@ Deontic logic studies "should".
 
 ### Bunk
 
-Logic can not possibly capture the complexity of human thought, law, or everyday life. That is because it does not make sense. We try to make sense of it all the time, limited by cognitive biases, but we haven't thought it _all_ through. No one has. It is impossible for any one person. The totality of human language, thought and knowledge is a patchwork of overlapping meanings, like puzzle pieces. The more of them you put together, the less the whole thing will fit.
+Logic can not possibly capture the complexity of human thought, law, or everyday life. That is because it does not make sense. We try to make sense of it all the time, limited by cognitive biases, but we haven't thought it _all_ through. No one has. It is impossible for any one person. The totality of human language, thought and knowledge is a patchwork of overlapping meanings, like a bag of random puzzle pieces. The more of them you put together, the less the whole thing will fit.
 
-We can't think it all through. But we can formalize a great deal, and compute with its entirety. As an example, autopilots in passenger airlines have, throughout the decades, carried billions safely to their destination, increased safety, compliance and efficiency and reduced cost.
+We can't think it all through. But we can formalize a great deal, and compute with its entirety. As an example, autopilots in passenger airlines have, throughout decades, carried billions safely to their destination, increased safety, compliance and efficiency and reduced cost.
 
 An autopilot is a logic program. Inputs are regulations, maps, physical characteristics of the plane, sensors, GPS, weather, radar, pilot commands. The ouputs are the flight controls. Autopilots avoid no-fly zones, respect speed and altitude limits, as well as solve physics equations to find efficient flight paths (in terms of fuel and time), all in real time.
 
@@ -76,7 +76,7 @@ Incidentally, tax law is also the most well suited candidate for formalization, 
 
 ### The Conflict of the Judge
 
-Judges are people too. They have interests, beliefs, opinions, party affiliations, etc.
+Judges are people too. They have interests, beliefs, opinions, party affiliations, [etc](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3293&context=flr).
 
 
 ### The Conflict of the Lawyer
