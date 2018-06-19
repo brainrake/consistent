@@ -1,14 +1,16 @@
 --
--- Preliminaries
+-- A logical description of some aspects of laws, the state, and separation of powers.
 --
+
+-- Preliminaries. A vector is a list with known length.
 import Data.Vect
 
 
--- Time is a thing.
+-- There is time.
 data Time
 
 
--- Persons are a thing.
+-- There are Persons.
 data Person
 
 
@@ -16,15 +18,14 @@ data Person
 data Event = MkEvent (Time, event)
 
 
--- The known world is a set of events, or a state of affairs.
-TheWorld : Type
-TheWorld = List Event
-
-
 -- An action is an event attributed to a person.
 Action : Type
 Action = (Person, Event)
 
+
+-- The known world is a set of events, or a state of affairs.
+TheWorld : Type
+TheWorld = (List Event, List Action)
 
 --
 -- The Law
@@ -45,9 +46,9 @@ TheLaw : Type
 TheLaw = (List Event -> TheLaw, List Law)
 
 
--- The current law is the law.
+-- The current set of laws and how to update them
 the_law : TheLaw
-
+the_law = (?how_to_update_the_law, ?list_of_laws)
 
 --
 -- Separation of powers.
@@ -88,14 +89,16 @@ Government =
         (people_of Legislative, people_of Judicial, people_of Executive)
 
 
--- The current government
+-- The current government consists of the people currently employed in the branches
 the_government : Government
-
+the_government =
+    (?legislative, ?judiciary, ?executive)
 
 -- A state is the law plus the people who update, decide, and act on it.
 State : Type
 State = (TheLaw, Government)
 
 
--- The current state is the state
+-- The state consists of the current law and the current government
 the_state : State
+the_state = (the_law, the_government)
