@@ -65,6 +65,18 @@ Worldwide, [road accidents](https://en.wikipedia.org/wiki/Traffic_collision) cau
 The conflict between precision and conciseness is inherent in language, and especially problematic when that language is meant to tell us what to do and the punishment if we don't. More interesting and avoidable are the conflicts of the people involved in law.
 
 
+### The Conflict of the Lawyer
+
+The job of attorneys is to win the case. In the argument they bring forward, the facts are irrelevant (but complicate things through evidence).
+
+Still, arguments should make sense, and logic is the way to ensure that. Lawyers, more so than judges, have incentives to misrepresent the letter of the law. Ambiguous language is prime target for clever redefinitions, alternative interpretations, even going so far as to [deny](https://books.google.ro/books?id=_4OPYtXwLtwC&pg=PA52&lpg=PA49) de Morgan's laws while claiming to know what the authors intended better than the text itself. If we can't agree on what "or" means, how can laws ever be just?
+
+
+### The Conflict of the Judge
+
+Judges are people too. They have interests, beliefs, opinions, party affiliations, [etc](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3293&context=flr).
+
+
 ### The Conflict of the Legislator
 
 The people making our laws should disclose and divest of concerns that incentivize them to act against our benefit. That's just not what happens in practice. There are many reasons not to enact just, concise laws, and to encourage loopholes, ambiguity, inconsistency, as well as convoluted language to hide them.
@@ -73,14 +85,9 @@ A great example is the U.K. tax code, now 21602 pages and over a million words i
 
 Incidentally, tax law is also the most well suited candidate for formalization, especially in light of the strong link between logic and computation. A formalized tax law would not only be free of contradiction and ambiguity, it would also _do your taxes for you_. As a logical theorem and proof, it is also, equivalently, a program that calculates your taxes. If there are multiple possibilities, it will find the minimum amount.
 
+Public choice theory - democracy leads to bad choices.
 
-### The Conflict of the Judge
-
-Judges are people too. They have interests, beliefs, opinions, party affiliations, [etc](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3293&context=flr).
+The legistlator's conflict is hardest and most important to overcome.
 
 
-### The Conflict of the Lawyer
-
-The job of attorneys is to win the case. In the argument they bring forward, the facts are irrelevant (but complicate things through evidence).
-
-Still, arguments should make sense, and logic is the way to ensure that. Lawyers, more so than judges, have incentives to misrepresent the letter of the law. Ambiguous language is prime target for clever redefinitions, alternative interpretations, even going so far as to [deny](https://books.google.ro/books?id=_4OPYtXwLtwC&pg=PA52&lpg=PA49) de Morgan's laws while claiming to know what the authors intended better than the text itself. If we can't agree on what "or" means, how can laws ever be just?
+## The Road to Justice
