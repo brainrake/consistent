@@ -5,22 +5,22 @@ A unified account of why, how, and what.
 
 ## Introduction
 
-Life and/or the world is full of shit. There's so much shit, it's hard to tell what shit is what. We can't tell the true shit from the bullshit.
+Life and the world is full of shit. There's so much shit, it's hard to tell what shit is what. We can't tell the true shit from the bullshit.
 
 People don't know shit. Most don't even give a shit. I do. I want to figure this shit out.
 
-This work is an interlinked set of documents (like a wiki) explaining most of the shit there is, in a way that makes sense. Should inclulde Idris source.
+This work aims to explain some shit like existence, reality, and freedom, in a way that makes sense. Btw, none of this shit is new or great or anything.
 
 
 ### Makes sense? What does that even mean?
 
 Commonly used naturally evolved languages are stunningly efficient in human communication, yet in many cases they are notoriously ambiguous.
 
-Conversely, in formal languages and logic, meanig is given by definition, and by composition of small pieces into larger sentences. The information contained in, or the meaning of sentences is equivalent with the arrangement of symbols that make them up.
+Conversely, in formal languages and logic, meanig is given by definition, and by straightforward composition of small pieces into larger sentences. The information contained in, or the meaning of sentences is equivalent with the arrangement of symbols that make them up.
 
 Logic can't tell you "what's out there". But given what you already know, it can help you figure out what you can (truthfully) say, what to expect, what makes sense, and what stuff means.
 
-Other seeming limitations (like Gödel's incompleteness theorem, or the liar paradox) are in fact important discoveries about the fundamental structure of information and meaning.
+Seeming limitations (like [incompleteness](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems), or the [liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)) are in fact important discoveries about the fundamental structure of information and meaning.
 
 
 #### A language with definite meaning
@@ -106,7 +106,7 @@ For now we have to assume an honest conversation - participants don't lie and wa
 
 ## What there is
 
-In a logical language, existence is not a predicate or a verb. It is a quantifier, a different kind of language element.
+In a logical language, *existence* is not a predicate or a verb. It is a quantifier, a different kind of language element.
 
 `A shit exists` is as meaningless to say as `A shit is`. Is what? Here's what makes sense though: `A shit is blue`.
 
@@ -118,7 +118,8 @@ Nothing more, nothing less.
 
 So there's no such thing as "to exist", only for some or all elements of a collection to "have a certain property". The confusion stems from the limited way we treat human languages, treating "is" like a verb when it is a different type of expression. Grammatically, it behaves much like a verb, but _requires_ a logical predicate or relation (like greenness, or being the son of someone).
 
-More on this: first order logic defines the pair of quantifiers: the existential quantifier "There exists a _ such that _" and the universal quantifier "All _ are such that _". Only one is required, the other can be defined in terms of it, as above.
+More on this: first order logic defines the pair of quantifiers: the existential quantifier "There exists a ... such that ..." and the universal quantifier "All ... are such that ...". Only one is required, the other can be defined in terms of it, as above.
+
 
 ### What there _actually_ is
 
@@ -126,7 +127,7 @@ Modal logic introduces the pair of operators "possibly" and "necessarily". If so
 
 On this we can build the notion of possible worlds, meaning possible states of affairs: how things could have turned out, assuming some things were different than they actually are.
 
-More on this: Modal Logic
+More on this: [Modal Logic](https://en.wikipedia.org/wiki/Modal_logic)
 
 
 ### What there _really_ is
@@ -170,7 +171,7 @@ To say that a sentence is true is nothing more than to say that sentence.
 
 Example:
 `I am full of shit`
-vs
+is the same as
 `It is true that I am full of shit.``
 
 
@@ -234,10 +235,12 @@ I am going to take a shit because I want to. (free choice)
 vs
 I am going to take a shit because I am literally full of shit and my rectum is bursting. (necessity)
 
-Interestingly, saying "because I want to" is equivalent to saying nothing at all.
+Interestingly, saying "because I want to" is equivalent to giving no reason at all.
 
 
 #### To be free means to not explain your actions
+
+*Freedom is lack of communicated intent*. When you tell me why you want to do something, the freedom disappears. You must do it, for the reason you gave.
 
 
 ### That feeling tho
@@ -248,12 +251,12 @@ Well, it really feels like you don't have a blind spot near the center of your f
 
 As we know, the universe is part deterministic, part random. There is no evidence of spirits, selves, or other spooky stuff independent of our bodies, influencing what actually happens. And our bodies are made of physics stuff. So what we end up doing is caused by previous interactions (DNA, brain structure, memories) and luck (randomness). The best we can do is to stack the odds in our favor.
 
-It appears that the illusion of consious decision comes down to thinking about choices (before) and rationalizing them (after). There is no "actual" choice, just as there is no actual chooser, separate from our physicsy (causal+lucky) bodies.
+It appears that the feeling of consious decision comes down to thinking about choices (before) and rationalizing them (after). There is no "actual" choice, just as there is no actual chooser, separate from our physicsy (causal+lucky) bodies.
 
 
 ### It's a trap!
 
-So why play along with the illusion? Especially since free choice doesn't amount to anything, in fact it is the _lack_ of information. The answer is, it's a benign, even useful illusion, like private property or colors. It lets us play the blame game. It's a rule of thumb we made up to decide who we can shun when shit doesn't happen the way we want. Ironically, this also reinforces the feeling of each individual that they are indeed making choices.
+So why play along? Especially since free choice doesn't amount to anything, in fact it is the _lack_ of information. The answer is, it's a benign, even useful story, like private property or colors. It lets us play the blame game. It's a rule of thumb we made up to decide who we can shun when shit doesn't happen the way we want. Ironically, this also reinforces the feeling of each individual that they are indeed making choices. In other words, the theory of free choice and responsibility is useful in its domain of applicability (social interaction), as real as basketball, compatible with physics, although its concepts are nowhere to be found in physics.
 
 There is an even more general usefulness to the concept of free will. Wether we decide to or not, contemplating a choice is associated with better outcomes. We imagine that we can choose, so we think about the choices, and in doing so, discover the merits thereof, and perhaps think of new ones.
 
@@ -272,42 +275,25 @@ Again, it's hard to pin it down. Let's ask though.
 
 Is a baby conscious? Is it a person? How about a fetus? How about you when you're sleeping? A person in a coma? Braindead? How about a firm? (Yes, that's a thing, corporations are people, "legal persons", in most jurisditions. Wtf.)
 
-So let's just leave it at that: stuff people say about (mainly) other people, to decide how to treat them (legally, ethically, etc). In any case, there's no magic to it
+So let's just leave it at that: being consious or being a person are things people say about (mainly) other people, to decide how to treat them (legally, ethically, etc). In any case, it's just convention, there's no magic to it.
 
 
 ## Science bitches! It works!
 
-Interconnected models of the external world, webs of truth woven from the fabric of reality.
+Science produces interconnected models of the external world, webs of truth woven from the fabric of reality. There's a method to it: question everything!
 
-Scientific truf is
+Scientific theories
 - falsifiable
 - attempted to be falsified, unsuccessfully (for a range of circumstances)
-- according to bayesian confirmation theory, confirmed by experiments that show it more probable if the experiment succeeds (a bit problematic, no quantified model exists)
+- confirmed by experiments that show the theory more probable if the experiment succeeds (in accordance with [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference))
+
+When we try very hard to show that a theory is false, and fail, we call it scientific truth. It's not truth in the logical sense, but as close as we can get.
 
 Well, these are crutches anyway. The point is, we try as best we can to eliminate the possibility that we're wrong. And we have developed good ways to do it. We apply them to other areas of life and cringe.
 
 
-## Two slits, one (black) hole
+## The laws underlying the physics of everyday life are completely understood
 
-So there's this annoying thing, we don't have one model to describe the basic workings of physics. We have two. Quantum field theory and general relativity.
+The equation representing them fits comfortably [on a t-shirt](http://www.preposterousuniverse.com/blog/2015/09/29/core-theory-t-shirts/).
 
-Note: string theory and AdS/CFT seem to point towards a physical Theory of Everything. It's still some ways off.
-
-Well, it seems like, for now, we have to live with disparate theories that only partially overlap. We can't (yet?) derive classical mechanics from quantum mechanics. It seems the problem is NP-complete [link]. But we can for example derive statistical thermodynamics from newtonian mechanics. Even so, there's new math to be discovered and new connections to be made.
-
-
-## Applied Shit
-
-There seems to be this scale where each item is the "applied" version of the preciding one:
-
-- philosophy
-- math
-- physics
-- chemistry
-- biology
-- psychology
-- socioeconomics
-
-See xkcd.
-
-We have translations between nearby fields, and it does seem to be a continuum, so we just have to close the gaps, and find translations between fields farther from each other.
+It seems that knowledge of reality can be arranged in a [stack](https://xkcd.com/435/) of academic fields, with physics being at the bottom, and other fields building on it. While other theories can have different and even incompatible concepts, they must be consistent with our basic pyhisical description.
