@@ -5,16 +5,16 @@ A unified account of why, how, and what.
 
 ## Introduction
 
-Life and the world is full of shit. There's so much shit, it's hard to tell what shit is what. We can't tell the true shit from the bullshit.
+Life and the world is full of shit. There's so much shit, it's hard to tell what shit is what. Hard to tell the true shit from the bullshit.
 
 People don't know shit. Most don't even give a shit. I do. I want to figure this shit out.
 
-This work aims to explain some shit like existence, reality, and freedom, in a way that makes sense. Btw, none of this shit is new or great or anything.
+None of this shit is new or great or anything. This work aims to explain some shit like meaning, existence, reality, consciousness and freedom, in a way that makes sense.
 
 
 ### Makes sense? What does that even mean?
 
-Commonly used naturally evolved languages are stunningly efficient in human communication, yet in many cases they are notoriously ambiguous.
+Commonly used naturally evolved languages are stunningly efficient in human communication, yet in many cases they are notoriously ambiguous, highly context-sensitive and generally ill-defined.
 
 Conversely, in formal languages and logic, meanig is given by definition, and by straightforward composition of small pieces into larger sentences. The information contained in, or the meaning of sentences is equivalent with the arrangement of symbols that make them up.
 
@@ -29,7 +29,7 @@ In order to properly discuss any matter of consequence, a formal language is req
 
 Without a formal, logical language, one can never be sure what things *really* mean, and everything is always up for interpretation.
 
-Ironically, by defining stuff, it loses any meaning beyond the possible arrangement of symbols related to it. Like a crossword puzzle in a foreign language, using a dictionary.
+Ironically, by defining stuff, it loses any meaning beyond the possible arrangement of symbols related to it. Like a crossword puzzle in a foreign language, using a dictionary. But that's the point. To explain is to explain away.
 
 
 #### Humans should use formal logical languages
@@ -39,9 +39,9 @@ in all areas of life where choices have consequences, especially where public di
 - metaphysics (plz define god kthxbai)
 - philosophy
 - law (it's not fair if you don't know what it means, or if there are contradictions in it)
-- programming (programs crash iff they don't make sense)
-- public debate and politics (you can't be right if you don't make sense)
-- life choices (if you want to live long and free, lead a healthy lifestyle and don't commit crimes)
+- programming (programs crash precisely when they don't make sense)
+- public debate and politics (you can't be right if you don't make sense, and need a common language)
+- life choices - health, consumption, ethics, altruism (if you want to live long and free, lead a healthy and virtuous lifestyle)
 - everyday human interaction
 
 but probably not for art or comedy. In fact, everything that isn't expressed in a consistent formal language, in a sense, is art.
@@ -65,7 +65,7 @@ If we logic everything, we'll become mindless robot computers! We will lose what
 
 No we won't. We'll fulfill it. We're the only creature capable of abstract reasoning. We should put our biased shortcut-based animagical thinking behind us and build a just, logical, free society. We will have more time to enjoy life and art, with less to worry about.
 
-To err is animal. To reason is human. To compute fast is machine. To adverb is verb.
+To err is animal. To reason is human. To compute (fast) is machine. To verb is noun. Adverb.
 
 
 ## On the meaning of shit
@@ -77,13 +77,13 @@ Milennia of philosophy and we're still arguing about this shit. Let's try to mak
 
 ### The Human Decision Problem
 
-Turns out there is a better way, a behavioral approach that captures the complexity of human thought. Let us not look at the words themselves, but how people use them in sentences. Let's ask yes/no questions and see how people might answer them.
+There's a simple way to look at these difficult questions: from the outside. A behavioral approach that captures the complexity of human thought. Let us not look at the words themselves, but how people use them in sentences. Let's ask yes/no questions and see how people might answer them.
 
-To find meaning, truth, or knowledge, it is often fruitless to ask oneself. Is it true? Why do I want that? How should I know? We have to consider the externally observable facts instead. We ask someone else. Or they ask us. It is in communication that these concepts are elucidated, because it is in communication that we _use_ them.
+To find meaning, truth, or knowledge, it is often fruitless to ask oneself. Is it true? Why do I want that? How should I know? We have to consider the externally observable facts instead. We ask someone else. Or they ask us. It is in communication that these concepts are elucidated, because that's (the only way) how we _use_ them.
 
-In a sense, we're never really asking "Is it true?" or "What is the meaning of this RNA?". We're asking, "What would you say if someone asked you if it is true?" or "What protein would a rhibosome build if I gave it this messenger RNA?". Words don't have meaning by themselves, only in sentences, in the act of communication (computation).
+In a sense, we're never really asking "Is it true?" or "What is the meaning of this RNA?". We're asking, "What would you say if someone asked you if it is true?" or "What protein would a rhibosome build if I gave it this messenger RNA?". Words don't have meaning by themselves, only in sentences, in the act of communication and associated computiation..
 
-There is no way I can find out wether you (really, freely) want something, what you know, or what you believe is true, other than just asking (if there is, please enlighten me). If what you say makes sense (together with what I already know), I have to assume that it is so. Innocent until proven guilty. If it weren't, and I couldn't, there would hardly be any point to communicating, we might as well make random noises.
+There is no way I can find out wether you (really, freely) want something, what you know, or what you believe is true, other than just asking (if there is, please enlighten me). If what you say makes sense (together with what I already know), I have to assume that it is so. If it weren't, and I couldn't, there would hardly be any point to communicating, we might as well make random noises. Until I have reason to doubt your honesty.
 
 
 #### Honest people make sense
@@ -91,10 +91,10 @@ There is no way I can find out wether you (really, freely) want something, what 
 Most of the time people don't make sense. And they lie. A lie is just a special case of nonsense, which would make sense except that in actuality its negation is true, which causes a contradiction.
 
 Reasons that a person might lie (or equivalently, talk nonsense):
-- memory is fallible
+- fallible memory
 - not understanding the question
 - not realizing they are being inconsistent
-- it is sometimes tedious to express ideas formally
+- difficulty of expressing ideas formally
 - being in a degraded mental state (distress, sleepwalking, delusion)
 - knowingly interfering with the listener's beliefs,
     - usally because the listener knowing the truth would put the liar at a disatvantage
@@ -108,7 +108,7 @@ For now we have to assume an honest conversation - participants don't lie and wa
 
 In a logical language, *existence* is not a predicate or a verb. It is a quantifier, a different kind of language element.
 
-`A shit exists` is as meaningless to say as `A shit is`. Is what? Here's what makes sense though: `A shit is blue`.
+`My shit exists` is as meaningless to say as `A shit is ...`. Is what? The sentence is missing a part. Here's what makes sense though: `A shit is blue`.
 
 Logically:
 `There exists a shit such that it is blue.`
@@ -116,14 +116,14 @@ And it means exactly this:
 `Not all shits are not blue`.
 Nothing more, nothing less.
 
-So there's no such thing as "to exist", only for some or all elements of a collection to "have a certain property". The confusion stems from the limited way we treat human languages, treating "is" like a verb when it is a different type of expression. Grammatically, it behaves much like a verb, but _requires_ a logical predicate or relation (like greenness, or being the son of someone).
+So there's no such thing as "to exist", only for some or all elements of a collection to "have a certain property". No "to be", just "to be ...".  The confusion stems from the limited way we treat human languages, treating "is" like a verb when it is a different type of language element. In english grammar, it behaves much like a verb, but _requires_ a logical predicate or relation (like greenness, or being the son of someone) to make sense.
 
-More on this: first order logic defines the pair of quantifiers: the existential quantifier "There exists a ... such that ..." and the universal quantifier "All ... are such that ...". Only one is required, the other can be defined in terms of it, as above.
+More on this: first order logic defines the pair of [quantifiers](https://en.wikipedia.org/wiki/Quantifier_(logic)): the existential quantifier "There exists a ... such that ..." and the universal quantifier "All ... are such that ...". Only one is required, the other can be defined in terms of it, as above.
 
 
 ### What there _actually_ is
 
-Modal logic introduces the pair of operators "possibly" and "necessarily". If something is necessarily true, it can not possibly not be true. Again, only one is required to be basic. One may introduce "actually" to distinguish possible truths that are deemed true in the actual world (but don't necessarily follow from logical axioms or prior knowledge).
+Modal logic introduces the pair of operators "possibly" and "necessarily". If something is necessarily true, it can not possibly not be true. Again, only one is required, the other follows. One may introduce "actually" to distinguish possible truths that are deemed true in the actual world (but don't necessarily follow from logical axioms or prior knowledge).
 
 On this we can build the notion of possible worlds, meaning possible states of affairs: how things could have turned out, assuming some things were different than they actually are.
 
@@ -138,7 +138,7 @@ Sherlock Holmes encodes being a detective. Allan Pinkerton exemplifies being a d
 
 Add to this a distinguished property of "being concrete", intuitively meaning "having a position in spacetime", exemplified by "real" things, and you're pretty much set.
 
-More on this: The Theory of Abstract Objects
+More on this: [The Theory of Abstract Objects](https://mally.stanford.edu/theory.html)
 
 
 ## Tha Truf
