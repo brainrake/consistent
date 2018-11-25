@@ -1,0 +1,9 @@
+package consistent
+
+modules = Main
+
+sourcedir = src
+
+executable = consistent
+
+main = Main
